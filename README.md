@@ -67,7 +67,16 @@
       <h3>Aperitivo a Bordo</h3>
       <p>Frutta fresca, drink e relax ammirando la costa vista mare.</p>
     </div>
-
+<div class="card">
+      <img src="C:\Users\Utente\Pictures\Foto mystral\ridimensionati\Snapshot_2.png" alt="Aperitivo a bordo" />
+      <h3>Aperitivo a Bordo</h3>
+      <p>Frutta fresca, drink e relax ammirando la costa vista mare.</p>
+    </div>
+    <div class="card">
+      <img src="C:\Users\Utente\Pictures\Foto mystral\ridimensionati\Snapshot_2.png" alt="Aperitivo a bordo" />
+      <h3>Aperitivo a Bordo</h3>
+      <p>Frutta fresca, drink e relax ammirando la costa vista mare.</p>
+    </div>
   </div>
 </section>
 
